@@ -7,6 +7,5 @@ index.html
 
 ### Video 
 
-<video width=500px controls> 
-<source src="video/video01.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/102218706/180485259-3a0ae6f9-6c2a-465b-8402-ac8d761975d6.mp4
+
