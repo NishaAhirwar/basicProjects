@@ -1,0 +1,140 @@
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: 'Rufina', serif;
+
+}
+
+h1 {
+  margin: 30px;
+  font-size: 5rem;
+  color: #FFC300;
+ }
+
+ h3{
+  color: #EC524B;
+ }
+
+
+
+footer {
+  margin-top: 5%;
+  text-align: center;
+ 
+
+}
+img{
+  width: 10%;
+}
+
+.ludo{
+  width: 80%;
+}
+
+.container-fluid{
+  padding: 7% 15%;
+  margin: 0;
+}
+
+
+/*navigation bar*/
+
+nav{
+  background-color: #4A403A;
+  border:0;
+  height: 1%;
+  color: white;
+}
+
+.nav-img{
+  width: 2%;
+}
+
+
+
+
+/*Title Section*/
+.title-image
+{
+  width: 100%;
+  object-fit: cover;
+
+}
+
+
+
+
+/*user*/
+
+.head-1{
+  font-size: 5rem;
+  color: #FFC300;
+}
+
+.head-2{
+color: #FFC300;
+padding: 2%;
+}
+
+.start-img{
+  width: 10%;
+}
+
+
+.user-button {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #FF616D;
+  padding: 10px 50px 10px 50px;
+  border: solid #D83A56 2px;
+  text-decoration: none;
+
+}
+
+.user-button:hover {
+  background: #CE1F6A;
+  text-decoration: none;
+}
+
+
+
+/*Dice */
+
+
+.dice-div{
+  background-color: #FFC93C;
+  padding: 7% 15%;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.roll-btn{
+  background-color: #fff;
+ border-radius: 150px;
+ color: #F48B29;
+ padding: 10px 50px;
+ font-family: 'Merriweather Sans', sans-serif;
+ border: solid #F48B29;
+ font-size: 1.5rem;
+ margin-bottom: 5%; 
+
+  }
+
+  .roll-btn:hover{
+    background-color: #F48B29;
+    color: white;
+  }
+
+
+.roll{
+  font-size: 5rem;
+  color: #fff;
+}
