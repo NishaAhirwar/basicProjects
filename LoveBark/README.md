@@ -1,8 +1,8 @@
 # LoveBark
 
-## Created the front-end of website LoveBark. LoveBark is a website to find a match for your lovely dog.
+Created the front-end of website LoveBark. LoveBark is a website to find a companion for your lovely dog.
 
-## Some images
+### Some images
 
 <img src="images/image01.png" width=500px>
 
